@@ -1,1 +1,2 @@
 # Task1-Iris-Flower-Classification
+ The Iris Flower Classification is a classic dataset and problem in the field of machine learning and data science. In this module, students will explore the fundamentals of classification algorithms using the Iris dataset, which consists of 150 samples from three species of Iris flowers: Iris setosa, Iris versicolor, and Iris virginica. Each sample includes four features: sepal length, sepal width, petal length, and petal width.
